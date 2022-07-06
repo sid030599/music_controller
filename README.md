@@ -45,3 +45,6 @@ or for development:
 ```bash
 npm run dev
 ```
+
+Some glimpses of app
+
