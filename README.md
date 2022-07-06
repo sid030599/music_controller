@@ -47,4 +47,5 @@ npm run dev
 ```
 
 Some glimpses of app
+![My Image](showcase.png)
 
